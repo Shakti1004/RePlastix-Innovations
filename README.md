@@ -74,10 +74,7 @@ sfdx force:apex:test:run --resultformat human --outputdir test-results
 ---
 
 ## 👤 Author
-
-**Hanvith Reddy B**
-Salesforce Developer @ RePlastix Innovations
-[LinkedIn](https://www.linkedin.com/in/hanvith-reddy-a67857252/) | [GitHub](https://github.com/hanvith6)
+Shakti S
 
 ---
 
